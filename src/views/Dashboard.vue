@@ -70,7 +70,8 @@ export default {
       changes.forEach(change => {
         if (change.type === "added"){
           this.projects.push({
-            ...change.doc.data()
+            ...change.doc.data(),
+            id : change.doc.id
           });
         }
       });

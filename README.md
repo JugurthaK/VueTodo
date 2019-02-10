@@ -2,8 +2,8 @@
 Project management tool
 :rocket: Project made with Vuetify and Firebase :fire: following the Net Ninja Code tutorial on youtube.
 
-TODO : 
-Authentification System
+*TODO :* 
+- [ ] Authentification System
 ## Project setup
 ```
 npm install
